@@ -111,3 +111,6 @@ Aqui serão descritas as etapas do desafio que, idealmente, devem ser seguidas d
 - **Dicas:**
   - Tente pensar no maior número de parâmetros que sejam relevantes para sua pipeline de dados, sem afetar sua funcionalidade.
   - Colocar valores padrão para alguns desses parâmetros reduz o ônus do usuário de preenchê-los por conta própria.
+
+
+![](https://svs.rio.br/epirio/img/CIE_RODAPE.svg)
